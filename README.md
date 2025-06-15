@@ -13,7 +13,6 @@ Journal App is a full-stack web application that enables users to add, update, a
 
 ## 🌟 Features
 - **User Authentication:** JWT-based authentication for secure login.
-- **Role-Based Access Control:** Access control for different user roles (Buyers and Sellers).
 - **Sentiment Analysis:** Weekly sentiment analysis using Gemini AI.
 - **Redis Caching:** Stores weekly analysis results for quick access.
 - **Email Notifications:** Automated weekly sentiment report via email.
